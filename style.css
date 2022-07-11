@@ -44,7 +44,7 @@ body{
 }
 
 .container__botao:hover{
-  background-color: #4190f1;
+  background-color: #7524a3;
   color: var(--cor-de-fundo);
   transition-delay: 0.3s;
 }
